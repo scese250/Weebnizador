@@ -1,6 +1,8 @@
 # Weebnizador 
 
-Weebnizador es un script de Python diseñado para aquellos de la vieja escuela les gusta mirar anime con honoríficos. Esto está diseñado principalmente para versiones piratas de grupos como "Erai-raws", pero en teoría debería servir con cualquier release de un grupo siempre y cuadno los idiomas de los subtítulos estén bien configurados.
+Weebnizador es un script de Python diseñado para aquellos de la vieja escuela les gusta mirar anime con honoríficos. Esto está diseñado principalmente para versiones piratas de grupos como "Erai-raws", pero en teoría debería servir con cualquier release de un grupo siempre y cuando los idiomas de los subtítulos estén bien configurados.
+
+También funciona en situaciones donde, descargas un release en inglés y tiene los subtítulos en españos afuera del MKV, puedes usar la función de "Extra-Sub" para weebficar el sub en español. 
 
 Tanto el script como este readme ESTÁN HECHOS CON IA. Yo no toqué ni una sola línea de código.
 
